@@ -859,6 +859,9 @@ textarea.form-control {
 .social-links2 li.github a:hover {
 	color: #333333;
 }
+.social-links2 li.linkedin a:hover {
+	color: #3b5998;
+}
 
 .pr-10 {
 	padding-right: 10px;
